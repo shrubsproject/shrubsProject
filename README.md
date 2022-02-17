@@ -9,6 +9,8 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=shrubsproject&theme=discord&no-frame=true)
 
+<a href="https://ton.place/id77093?ref=12d25" target="_blank">ton.place</a> 
+
 <!--
 **shrubsproject/shrubsproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
